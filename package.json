@@ -1,0 +1,11 @@
+{
+  "name": "statements",
+  "version": "1.0.0",
+  "description": "App for people to post thoughts and read comments of others",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "export NODE_ENV=test&& jasmine"
+  },
+  "author": "",
+  "license": "ISC"
+}
